@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qubeout", "Assembly-CSharp.csproj", "{CE9ED329-5DCC-DAD9-3CFB-E53C319C920B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE9ED329-5DCC-DAD9-3CFB-E53C319C920B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE9ED329-5DCC-DAD9-3CFB-E53C319C920B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE9ED329-5DCC-DAD9-3CFB-E53C319C920B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE9ED329-5DCC-DAD9-3CFB-E53C319C920B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
